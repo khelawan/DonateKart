@@ -1,0 +1,41 @@
+{
+   "list":[
+       { 
+        "name": "Camera",
+        "price": 200,
+        "img" :"https://image.flaticon.com/icons/svg/2782/2782367.svg"
+    },
+     { 
+         "name": "Joystick",
+         "price": 300,
+         "img" :"https://image.flaticon.com/icons/svg/2540/2540382.svg"
+         
+     },
+     { 
+        "name": "Phone",
+        "price": 400,
+        "img" :"https://image.flaticon.com/icons/svg/644/644458.svg"
+       
+    },
+    { 
+        "name": "Camera",
+        "price": 200,
+        "img" :"https://image.flaticon.com/icons/svg/2782/2782367.svg"
+    },
+     { 
+         "name": "Joystick",
+         "price": 300,
+         "img" :"https://image.flaticon.com/icons/svg/2540/2540382.svg"
+         
+     },
+     { 
+        "name": "Phone",
+        "price": 400,
+        "img" :"https://image.flaticon.com/icons/svg/644/644458.svg"
+       
+    }
+    
+   ]
+   
+
+}
